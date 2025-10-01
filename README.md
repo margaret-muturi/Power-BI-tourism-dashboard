@@ -13,6 +13,9 @@ Note: The data is artificially generated and does not reflect real business perf
 4. Travel packages : Perfomance of different travel packages
 5. Destinations : Popular destinations generating higher revenue, distributed per package type.
 6. Channel contributions: Marketing channels analysis, which channel contibutes the most to the total revenue.
+![Dashboard Preview](image.png)
+
+
 
 # Key Insights
 Groups and family contribute more to the total revenue, this implies that package deals are good and attractive. Solo travellers are the least, one could check package for solo trips, however, could also imply people like to travel in company and not alone, thus focus on group deals to boost revenue.
@@ -20,7 +23,7 @@ Local destinations performed well compared to international trips, however, aver
 Quarter 4 and Quarter 1 have revenue spikes. 
 
 # Learning takeways 
-Practiced Dax in creating measures
+Practiced Dax in creating measures.
 Dashboards layouts and data story telling using visuals.
 Strengthened ability to approach an end-to-end analytics project
 
