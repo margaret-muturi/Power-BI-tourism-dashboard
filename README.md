@@ -13,6 +13,7 @@ Note: The data is artificially generated and does not reflect real business perf
 4. Travel packages : Perfomance of different travel packages
 5. Destinations : Popular destinations generating higher revenue, distributed per package type.
 6. Channel contributions: Marketing channels analysis, which channel contibutes the most to the total revenue.
+   
 ![Dashboard Preview](image.png)
 
 
