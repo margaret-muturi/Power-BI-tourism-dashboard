@@ -1,6 +1,7 @@
 # Power-BI-tourism-dashboard
 Power BI project analyzing the tourism industry using synthetic data, focusing on DAX measures, visual storytelling, and dashboard design.
 
+![Dashboard Preview](image.png)
 # Project Overview
 This project is a Power BI dashboard built to analyze the performance of a fictional Tours & Travel company.
 The goal was to practice data analysis skills, DAX measures, and visual storytelling using a simulated dataset.
@@ -13,10 +14,6 @@ Note: The data is artificially generated and does not reflect real business perf
 4. Travel packages : Perfomance of different travel packages
 5. Destinations : Popular destinations generating higher revenue, distributed per package type.
 6. Channel contributions: Marketing channels analysis, which channel contibutes the most to the total revenue.
-   
-![Dashboard Preview](image.png)
-
-
 
 # Key Insights
 Groups and family contribute more to the total revenue, this implies that package deals are good and attractive. Solo travellers are the least, one could check package for solo trips, however, could also imply people like to travel in company and not alone, thus focus on group deals to boost revenue.
