@@ -25,3 +25,5 @@ Practiced Dax in creating measures.
 Dashboards layouts and data story telling using visuals.
 Strengthened ability to approach an end-to-end analytics project
 
+Explore the full project and insights on YouTube : https://youtu.be/IsDKBOhNWxE
+
